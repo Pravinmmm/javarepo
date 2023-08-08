@@ -104,7 +104,6 @@
                 <version>2.2</version>
                 <configuration>
                     <formats>
-                  <cobertura:cobertura -Dcobertura.report.format=xml>
                         <format>xml</format>
                     </formats>
                 </configuration>
